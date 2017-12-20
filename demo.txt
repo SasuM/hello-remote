@@ -1,1 +1,1 @@
-agregamos algun texto 
+Y que pasa si quiero hacer pull de manera local al servidor?
